@@ -1,0 +1,43 @@
+How to solve this problem of Scrapping and Sentiment Analysis
+
+Approach one
+
+1.  Raw coding
+i. scrapping of single url  is successful
+ii. scrapping of another url is also successful
+iii. scrapping of csv file is also succesful and save the raw  data in dataframe
+iv. Now working on the Sentiment Analysis
+
+data preprocessing
+1. stopwords
+2.tokenization
+3. lemmatization
+4. ngrams
+5. punctuation
+6. html tags
+7. regular expressions
+8
+9
+10.
+
+----------------------------------------------------------------
+
+Final Approach Modular Coding
+
+Converting the raw code in modular fashion
+
+
+1. logging
+2. exception
+3. utils
+4. framework - flask , jango, streamlit- Frontend
+
+5. nlp
+6. scraper
+7. config
+8. app.py -- streamlit
+9. DOckerize
+10. Heroku deployment
+
+
+
